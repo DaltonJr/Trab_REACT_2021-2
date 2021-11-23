@@ -1,0 +1,30 @@
+body {
+    padding: 25px;
+    background: url('fundo3.png');
+    background-size: 1900px 1200px;
+    text-align: center;
+   }
+
+.body2 {
+    padding: 25px;
+    background: url('fundo2.jpg');
+    background-size: 1900px 1200px;
+   }
+
+
+.p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: ivory;
+    text-align: center;
+   }
+.videowrapper { 
+    float: left;
+    clear: right;
+    width: 400px;
+    position: center;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+    margin: 0 auto;
+    max-width: 100%;
+}
